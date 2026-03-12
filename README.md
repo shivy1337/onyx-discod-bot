@@ -1,4 +1,4 @@
-![Onyrex Discord Bot](./onyrex_discord_bot_thumbnail.png)
+[Onyrex Discord Bot](./onyrex_discord_bot_thumbnail.png)
 # Onyrex Discord Bot
 
 A feature-rich Discord bot for the Onyrex Network with moderation tools, fun commands, and utility features.
